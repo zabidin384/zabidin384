@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zainal Abidin
 - 👀 I’m interested in web progamming especially in front end development
-- 🌱 I’m currently learning FLutter for mobile app
+- 🌱 I’m currently learning Flutter for mobile app
 - 💞️ I’m looking to collaborate on web and mobile programming
 - 📫 Contact me on email: zabidin384@gmail.com
 
