@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zainal Abidin
 - 👀 I’m interested in web progamming especially in front end development
-- 🌱 I’m currently learning MERN (MongoDB, Express Js, React Js, and Node Js)
-- 💞️ I’m looking to collaborate on web programming
+- 🌱 I’m currently learning FLutter for mobile app
+- 💞️ I’m looking to collaborate on web and mobile programming
 - 📫 Contact me on email: zabidin384@gmail.com
 
 <!---
