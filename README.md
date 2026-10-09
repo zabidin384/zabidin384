@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Zainal Abidin
-- 👀 I’m interested in web progamming especially in MERN Stack Technology
-- 🌱 I’m currently learning Flutter for mobile app
-- 💞️ I’m looking to collaborate on web and mobile programming
+
+- 👀 I’m interested in data analyst and data science with Python and SQL
+- 🌱 I'm now studying deep learning
+- 💞️ I’m looking to collaborate on data science's project
+
 - 📫 Contact me on email: zabidin384@gmail.com
 
 <!---
